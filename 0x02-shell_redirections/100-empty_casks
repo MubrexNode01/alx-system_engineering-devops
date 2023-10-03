@@ -1,0 +1,2 @@
+#!/bon/bash 
+ls -al| find -type -empty
